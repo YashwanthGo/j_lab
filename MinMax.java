@@ -1,5 +1,3 @@
-package Yashwanth;
-
 public class MinMax {
     // Represent a node of the doubly linked list
     class Node {
