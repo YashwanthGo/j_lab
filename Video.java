@@ -1,5 +1,3 @@
-package Yashwanth;
-
 public class Video 
 {
      String mName;
