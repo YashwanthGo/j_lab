@@ -1,5 +1,3 @@
-package Yashwanth;
-
 import java.util.*;
 public class BinarySearch {
 public void sort(int[] array, int n) {
