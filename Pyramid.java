@@ -1,5 +1,3 @@
-package Yashwanth;
-
 import java.util.*;
 public class Pyramid {
 	public static void main(String args[]) {
