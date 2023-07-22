@@ -1,5 +1,3 @@
-package Yashwanth;
-
 import java.util.Scanner;
 
 class Number {
