@@ -1,4 +1,3 @@
-package Yashwanth;
 import java.util.*;
 
 public class Lexico_graph 
