@@ -1,6 +1,4 @@
-package Yashwanth;
-
-import java.util.LinkedList; 
+import java.util.LinkedList; t; 
 
 public class Threadexample { 
     public static void main(String[] args) 
