@@ -1,5 +1,3 @@
-package Yashwanth;
-
 import java.util.*;
 interface BuzzNumber{
 	public void check(int N);
