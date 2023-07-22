@@ -1,6 +1,4 @@
-package Yashwanth;
-
-import java.util.Scanner;
+import java.util.Scanner;r;;r;
 
 public class VideoMain 
 {
