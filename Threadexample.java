@@ -1,4 +1,4 @@
-import java.util.LinkedList; t; 
+import java.util.LinkedList;
 
 public class Threadexample { 
     public static void main(String[] args) 
