@@ -1,4 +1,3 @@
-package Yashwanth;
 import java.util.*;
 public class Separate {
 	public static void Transpose(int b[][],int m,int n)
